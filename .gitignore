@@ -1,0 +1,3 @@
+# ignore the STMNIST dataset
+# it can be downloaded, then placed in the STMNIST folder
+STMNIST/
